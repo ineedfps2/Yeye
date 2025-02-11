@@ -1557,5 +1557,5 @@ if response == trueData then
                     ThemeManager:ApplyToTab(Tabs['UI Settings'])
                     SaveManager:LoadAutoloadConfig()
 else
-  print("Key is invalid")
+  print("invalid key you black monkey")
 end
