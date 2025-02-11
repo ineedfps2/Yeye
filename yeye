@@ -1,3 +1,9 @@
+print = function() end
+error = function() end
+warn = function() end
+babayenko — Today at 8:15 PM
+
+
 local KeyGuardLibrary = loadstring(game:HttpGet("https://cdn.keyguardian.org/library/v1.0.0.lua"))()
 local trueData = "a9725b34503b4b909697cb419fcbebd5"
 local falseData = "073334be55e34e7797712601d86e0cf5"
